@@ -1,0 +1,7 @@
+{
+    "name": "kibana",
+    "type": "helm",
+    "repo": "https://github.com/helm/charts",
+    "path": "stable/kibana",
+    "subcomponents": []
+}
